@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactFecthing/static/css/main.c2cab247.css",
+    "main.js": "/ReactFecthing/static/js/main.7b62a3f7.js",
+    "static/js/787.818c11cd.chunk.js": "/ReactFecthing/static/js/787.818c11cd.chunk.js",
+    "index.html": "/ReactFecthing/index.html",
+    "main.c2cab247.css.map": "/ReactFecthing/static/css/main.c2cab247.css.map",
+    "main.7b62a3f7.js.map": "/ReactFecthing/static/js/main.7b62a3f7.js.map",
+    "787.818c11cd.chunk.js.map": "/ReactFecthing/static/js/787.818c11cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.7b62a3f7.js"
+  ]
+}
